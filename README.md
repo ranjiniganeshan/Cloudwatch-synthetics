@@ -10,7 +10,8 @@
 2. Runtime version (syn-python-selenium-1.2)
 3. script editor update signin.py
 4. add environment variable 
-![image]image.png
+![image](https://user-images.githubusercontent.com/32661402/212886398-915e26dc-beb5-4df6-805f-09126e40f473.png)
+
 5. handler name 
 6. schedule 
 7. data storage and S3 configuration refer below
