@@ -15,13 +15,9 @@
 5. handler name 
 6. schedule 
 7. data storage and S3 configuration refer below
-![image]image.png
-
-![image](https://user-images.githubusercontent.com/32661402/212846575-8a52693f-8bfa-49ec-b2f6-7bc7d2a35f37.png)
-
-
+![image](https://user-images.githubusercontent.com/32661402/212886542-3abcab2f-5278-4e61-9ffc-177164191322.png)
 
 
 # Canary results
 
-![image]image.png
+
